@@ -30,5 +30,5 @@ This course is deployed via GitHub Actions to GitHub Pages under the `DataFabric
 
 ## License
 
-Copyright © DataFabric Academy. Built with Knowledge Fabric System.
+Copyright © Data Fabric Academy. Built with Knowledge Fabric System.
 
